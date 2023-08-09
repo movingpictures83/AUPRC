@@ -1,0 +1,2 @@
+Prefix plugins/AUPRC/example/
+Plugin AUPRC inputfile input.txt outputfile output.tsv
